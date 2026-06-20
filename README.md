@@ -6,7 +6,7 @@
 
 A proactive and curious software enthusiast with a passion for continuous learning and growth, eager to contribute to innovative projects while evolving both personally and professionally.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E0F2FE?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/sahithya-m-a857a824b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahithya-m-a857a824b)
 [![Gmail](https://img.shields.io/badge/Email-FEE2E2?style=flat&logo=gmail&logoColor=D14836)](mailto:sahithya26012004@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FEF3C7?style=flat&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/sahi2631)
 
@@ -18,12 +18,12 @@ A proactive and curious software enthusiast with a passion for continuous learni
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-FFEDD5?style=flat&logo=openjdk&logoColor=ED8B00)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-DBEAFE?style=flat&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-F1F5F9?style=flat&logo=c&logoColor=A8B9CC)
 ![TypeScript](https://img.shields.io/badge/TypeScript-DBEAFE?style=flat&logo=typescript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/HTML5-FFEDD5?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-DBEAFE?style=flat&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frameworks & Platforms**
  
