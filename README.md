@@ -2,11 +2,11 @@
 
 # Hi there, I'm Sahithya 👋
 
-*** Software Developer | Full Stack Enthusiast | Lifelong Learner ***
+**Software Developer | Full Stack Enthusiast | Lifelong Learner**
 
 A proactive and curious software enthusiast with a passion for continuous learning and growth, eager to contribute to innovative projects while evolving both personally and professionally.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E0F2FE?style=flat&logo=linkedin&logoColor=0077B5)]((https://www.linkedin.com/in/sahithya-m-a857a824b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E0F2FE?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/sahithya-m-a857a824b)
 [![Gmail](https://img.shields.io/badge/Email-FEE2E2?style=flat&logo=gmail&logoColor=D14836)](mailto:sahithya26012004@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FEF3C7?style=flat&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/sahi2631)
 
@@ -14,7 +14,7 @@ A proactive and curious software enthusiast with a passion for continuous learni
 
 ---
 
-** 🛠️ Tech Stack **
+**🛠️ Tech Stack**
 
 **Languages**
 
@@ -46,21 +46,21 @@ Object-Oriented Programming &nbsp;•&nbsp; Data Structures &nbsp;•&nbsp; Prom
 
 ---
 
-** 💼 Featured Projects **
+**💼 Featured Projects**
 
-*** 📚 BookHub — Online Bookstore Platform ***
+***📚 BookHub — Online Bookstore Platform***
 Java Spring Boot application allowing users to browse, add, update, and delete book listings, with a focus on efficient backend data handling and clean API integration.
 
 `Java` `Spring Boot` `REST API`
 
-*** 🏨 Smart Hotel Booking System ***
+***🏨 Smart Hotel Booking System***
 Full-stack web application enabling users to search, view, and book hotel rooms by location, price, and ratings — featuring dynamic search filters, real-time availability, and a user-friendly booking interface.
 
 `Spring Boot` `MySQL` `Angular`
 
 ---
 
-*** 📜 Certifications ***
+***📜 Certifications***
 
 - 💻 C Programming — Infosys Springboard
 - 🤖 Prompt Engineering
@@ -69,7 +69,7 @@ Full-stack web application enabling users to search, view, and book hotel rooms 
 
 ---
 
-*** 📊 GitHub Stats ***
+***📊 GitHub Stats***
 
 <div align="center">
 
@@ -80,13 +80,13 @@ Full-stack web application enabling users to search, view, and book hotel rooms 
 
 ---
 
-*** 🤝 Soft Skills ***
+***🤝 Soft Skills***
 
 Problem-Solving &nbsp;•&nbsp; Team Collaboration &nbsp;•&nbsp; Communication
 
 <div align="center">
 
-*** 📫 Let's Connect! ***
+***📫 Let's Connect!***
 *sahithya26012004@gmail.com  •  +91 6380593123*
 
 </div>
