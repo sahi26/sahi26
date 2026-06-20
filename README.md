@@ -6,9 +6,9 @@
 
 A proactive and curious software enthusiast with a passion for continuous learning and growth, eager to contribute to innovative projects while evolving both personally and professionally.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DBEAFE?style=flat&logo=linkedin&logoColor=1D4ED8)](https://www.linkedin.com/in/sahithya-m-a857a824b)
-[![Gmail](https://img.shields.io/badge/Email-EDE9FE?style=flat&logo=gmail&logoColor=6D28D9)](mailto:sahithya26012004@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-E0E7FF?style=flat&logo=leetcode&logoColor=4338CA)](https://leetcode.com/u/sahi2631)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahithya-m-a857a824b)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahithya26012004@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahi2631)
 
 </div>
 
@@ -18,28 +18,28 @@ A proactive and curious software enthusiast with a passion for continuous learni
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-DBEAFE?style=flat&logo=openjdk&logoColor=1D4ED8)
-![Python](https://img.shields.io/badge/Python-E0E7FF?style=flat&logo=python&logoColor=4338CA)
-![C](https://img.shields.io/badge/C-EDE9FE?style=flat&logo=c&logoColor=6D28D9)
-![TypeScript](https://img.shields.io/badge/TypeScript-E0F2FE?style=flat&logo=typescript&logoColor=0369A1)
-![HTML5](https://img.shields.io/badge/HTML5-DDD6FE?style=flat&logo=html5&logoColor=5B21B6)
-![CSS3](https://img.shields.io/badge/CSS3-DBEAFE?style=flat&logo=css3&logoColor=1E40AF)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frameworks & Platforms**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-E0E7FF?style=flat&logo=springboot&logoColor=4338CA)
-![Angular](https://img.shields.io/badge/Angular-EDE9FE?style=flat&logo=angular&logoColor=6D28D9)
-![MySQL](https://img.shields.io/badge/MySQL-DBEAFE?style=flat&logo=mysql&logoColor=1D4ED8)
-
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+ 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-E0F2FE?style=flat&logo=git&logoColor=0369A1)
-![GitHub](https://img.shields.io/badge/GitHub-E0E7FF?style=flat&logo=github&logoColor=3730A3)
-![VS Code](https://img.shields.io/badge/VS%20Code-DBEAFE?style=flat&logo=visualstudiocode&logoColor=1D4ED8)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-EDE9FE?style=flat&logo=intellijidea&logoColor=6D28D9)
-![Postman](https://img.shields.io/badge/Postman-DDD6FE?style=flat&logo=postman&logoColor=5B21B6)
-![Swagger](https://img.shields.io/badge/Swagger-E0F2FE?style=flat&logo=swagger&logoColor=0369A1)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+ 
 **Core Concepts**
 
 Object-Oriented Programming &nbsp;•&nbsp; Data Structures &nbsp;•&nbsp; Prompt Engineering &nbsp;•&nbsp; REST API Design
