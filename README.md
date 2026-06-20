@@ -6,7 +6,7 @@
 
 A proactive and curious software enthusiast with a passion for continuous learning and growth, eager to contribute to innovative projects while evolving both personally and professionally.
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-E0F2FE?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/sahithya-m-a857a824b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E0F2FE?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/sahithya-m-a857a824b)
 [![Gmail](https://img.shields.io/badge/Email-FEE2E2?style=flat&logo=gmail&logoColor=D14836)](mailto:sahithya26012004@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FEF3C7?style=flat&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/sahi2631)
 
