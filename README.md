@@ -33,6 +33,7 @@ A proactive and curious software enthusiast with a passion for continuous learni
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-EDE9FE?style=flat&logo=bootstrap&logoColor=7952B3)
 
 **Database**
+
 ![MySQL](https://img.shields.io/badge/MySQL-DBEAFE?style=flat&logo=mysql&logoColor=4479A1)
 
 **Tools**
